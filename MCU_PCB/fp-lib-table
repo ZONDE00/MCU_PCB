@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "schematics")(type "KiCad")(uri "${KIPRJMOD}/schematics.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprint/footprints.pretty")(options "")(descr ""))
+)
