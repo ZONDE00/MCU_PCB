@@ -2212,7 +2212,7 @@
     (property "Sheetname" "MCU")
     (path "/52dd8567-a2b9-4997-92b7-142386143623/dfbb970b-6d12-44ce-b91e-f3f9a3ee0b16")
     (attr smd)
-    (fp_text reference "R2" (at 0 1.201 90) (layer "F.SilkS")
+    (fp_text reference "R2" (at 0 -1.17 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6bb1edf2-db62-48e2-9d30-5fd7ecd92b2a)
     )
