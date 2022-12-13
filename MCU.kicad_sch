@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (date "%%date%%")
+    (rev "%%version%%")
+    (company "BASEMENT")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.254 1.778 0)
@@ -405,6 +411,7 @@
       )
     )
   )
+
 
   (junction (at 104.14 25.781) (diameter 0) (color 0 0 0 0)
     (uuid 99d22d6c-31f0-4e17-ad18-5c4b7c2474df)
